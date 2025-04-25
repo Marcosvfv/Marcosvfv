@@ -27,7 +27,7 @@
 
 **Formação Principal**  
 `📊 2025-Atual | EBAC`  
-**Ciência de Dados**  
+**Cientista de Dados**  
 - Especialização em Machine Learning
 - Foco em SQL, Python e R
 
