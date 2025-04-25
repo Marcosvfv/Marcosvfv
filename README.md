@@ -1,4 +1,4 @@
-## Hello there 👋
+##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F37F7&width=435&lines=Hello+There%2C+my+name+is+Marcos+Vinicius;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!)](https://git.io/typing-svg)
 
