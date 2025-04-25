@@ -32,7 +32,7 @@
 - Foco em SQL, Python e R
 
 **Formação Complementar**  
-`🎓 2021 | Administração - Uninove`  
+`🎓 2019 - 2022 | Administração - Uninove`  
 
 ## 🛠️ Habilidades Técnicas
 
