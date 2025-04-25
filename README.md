@@ -38,7 +38,7 @@
 
 **Principais competências:**
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20"> **Python**: Desenvolvimento de aplicações web, automação e análise de dados
-- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="20"> **SQL**: Modelagem de bancos relacionais, queries complexas e otimização
+- <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117" width="20"> **SQL**: Modelagem de bancos relacionais, queries complexas e otimização
 
 
           
