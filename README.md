@@ -5,7 +5,7 @@
 ### Main Skills:
 
 ![<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-!<i class="devicon-azuresqldatabase-plain"></i>
+!https://w7.pngwing.com/pngs/134/190/png-transparent-sql-logo-microsoft-sql-server-mysql-database-logo-others-blue-text-trademark-thumbnail.png
           
           
 <!--
