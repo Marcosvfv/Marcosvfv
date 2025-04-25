@@ -40,6 +40,14 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20"> **Python**: Desenvolvimento de aplicações web, automação e análise de dados
 - <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117" width="20"> **SQL**: Modelagem de bancos relacionais, queries complexas e otimização
 
+## 📃Experiência
+
+Profissional com 3 anos e meio de experiência na área de Prevenção à Lavagem de Dinheiro (PLD/FTP) - Prevenção à Lavagem de Dinheiro, ao Financiamento do Terrorismo e ao Financiamento da Proliferação de Armas de Destruição em Massa. 
+
+Expertise em monitoramento de transações, KYC (Conheça Seu Cliente), KYP (Conheça Seu Parceiro) e processos de onboarding PEP. 
+
+Habilidade comprovada na análise de adverse media e na implementação de práticas de quality assurance, garantindo a conformidade e a mitigação de riscos. Comprometido com a promoção de um ambiente seguro e ético no setor financeiro.
+
 
           
           
