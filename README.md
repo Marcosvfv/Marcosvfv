@@ -5,8 +5,8 @@
 ### Main Skills:
 
 ![<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL]https://w7.pngwing.com/pngs/134/190/png-transparent-sql-logo-microsoft-sql-server-mysql-database-logo-others-blue-text-trademark-thumbnail.png
-          
+![WhatsApp Image 2025-04-25 at 11 05 49](https://github.com/user-attachments/assets/f2a4fef0-dab2-4399-945b-b7d4bdd2aa81)
+         
           
 <!--
 **Marcosvfv/Marcosvfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
