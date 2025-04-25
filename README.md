@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=Hello, There+My+name+is+Marcos+Vinicius;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?color=1F37F7&lines=Hello+There%2C+my+name+is+Marcos+Vinicius;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F37F7&width=435&lines=Hello+There%2C+my+name+is+Marcos+Vinicius;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!)](https://git.io/typing-svg)
 
 <!--
 **Marcosvfv/Marcosvfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
