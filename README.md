@@ -4,7 +4,7 @@
 
 ### Main Skills:
 
-![Python]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+Python<i class="devicon-python-plain"></i>
           
 <!--
 **Marcosvfv/Marcosvfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
