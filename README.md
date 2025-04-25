@@ -22,6 +22,23 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+## 🎓 Trajetória Acadêmica
+
+**Formação Principal**  
+`📊 2025-Atual | EBAC`  
+**Ciência de Dados**  
+- Especialização em Machine Learning
+- Foco em SQL, Python e R
+
+**Formação Complementar**  
+`🎓 2021 | Administração - Uninove`  
+
+## 🛠️ Habilidades Técnicas
+
+**Principais competências:**
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="20"> **Python**: Desenvolvimento de aplicações web, automação e análise de dados
+- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="20"> **SQL**: Modelagem de bancos relacionais, queries complexas e otimização
+
 
           
           
